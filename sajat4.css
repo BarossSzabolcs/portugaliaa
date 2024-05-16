@@ -1,0 +1,73 @@
+body{
+    background-image: url(lisabon.jpeg);
+    background-repeat: repeat;
+    background-size: cover;
+    backdrop-filter: blur(10px);
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; /* Azért, hogy az oldal tartalma az előtérben maradjon */
+}
+#program1{
+    border: double #FFEFD5;
+    border-radius: 20px;
+    height: 400px;
+    width: 400px;
+    margin-left: 20px; 
+    color: #FFEFD5;
+
+}
+#program2{
+    border: double #FFEFD5;
+    border-radius: 20px;
+    height: 400px;
+    width: 400px;
+    margin-left: 500px;
+    margin-top: -399px;
+    color: #FFEFD5;
+}
+#program3{
+    border: double #FFEFD5;
+    border-radius: 20px;
+    height: 400px;
+    width: 400px;
+    margin-left: 980px; 
+    margin-top: -399px;
+    color: #FFEFD5;
+}
+#program4{
+    border: double #FFEFD5;
+    border-radius: 20px;
+    height: 400px;
+    width: 400px;
+    margin-left: 1490px; 
+    margin-top: -399px;
+    color: #FFEFD5;
+}
+#elsokep{
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+    margin-left: 40px;
+}
+#masodikkep{
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+    margin-left: 40px;
+}
+#harmadikkep{
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+    margin-left: 40px;
+}
+#negyedikkep{
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+    margin-left: 40px;
+}
